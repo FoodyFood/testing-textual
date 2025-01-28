@@ -5,6 +5,13 @@ from textual.widgets import Button, Footer
 
 
 class RGBApp(App):
+    """
+    This is the main app class
+
+    Methods:
+        Several :)
+    """
+
     CSS = """
     Screen {
         align: center middle;
